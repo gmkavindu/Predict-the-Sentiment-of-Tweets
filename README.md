@@ -1,4 +1,4 @@
-# Project Title
+# Predict the Sentiment of Tweets
 
 This project contains the code for my Google Colab project.
 
